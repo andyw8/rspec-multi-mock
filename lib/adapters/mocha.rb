@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'mocha/object'
+# require 'mocha/object'
 require 'mocha/api'
 
 module MultiMock
